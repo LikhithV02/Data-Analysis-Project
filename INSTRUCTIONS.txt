@@ -1,0 +1,4 @@
+INSTRUCTIONS
+
+I have created the .py file where all the code has beenn shown with comments.
+I had created many files but I have merged it under this file
